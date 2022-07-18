@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwonminwoo)](https://github.com/Kwonminwoo/github-readme-stats/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty029369@naver.com)](https://github.com/qwerty029369@naver.com/github-readme-stats/>
   
   ### Kwon Minwoo 
   
