@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty029369@naver.com&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   ### Kwon Minwoo 
   
@@ -14,7 +14,7 @@
   </a> 
  
   <a href="https://kwonminwoo.github.io/">
-    <img src="https://img.shields.io/badge/study-blog-252A34?style=flat-square&logo=Storyblok&logoColor=white"/>
+    <img src="https://img.shields.io/badge/StudyBlog-252A34?style=flat-square&logo=Storyblok&logoColor=white"/>
   </a>
 
   <br>
